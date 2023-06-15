@@ -1,0 +1,4 @@
+Name: Chung-Mou Pan
+37911665
+
+Some hardships I faced in doing this assignment is the shuffle and border part. In the shuffle part, I kept getting infinite loops at first. This could be attibuted to how I assumed that the program would run counting every swaps and when the swaps hit 16, the program stops. I put the count = 0 in the wrong place at first. Also put srand function in the loop at first. Many debugs I did. For the shuffle part, I was not understanding what width meant at first. I ran some tests so that my pictures would resemble the teacher's to get a solution. 
